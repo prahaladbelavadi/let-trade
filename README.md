@@ -16,4 +16,4 @@ A token trading interface built atop multichain.
 	
 	
 -------------------------------------------------------------------------------
-Built using [Cayman](./_config) theme
+Built using [Cayman](./_config.yml) theme

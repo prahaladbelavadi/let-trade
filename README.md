@@ -1,13 +1,16 @@
 # let-trade
 A token trading interface built atop multichain.
 
-Examples:
+> Examples:
+
 	- [Candle stick chart](./examples/candlestick-chart)
 
 
-Resources:
+> Resources:
+
 	- [Multichain](multichain.com)
 	- [Markdown guide](./gh-pages-README)
+	- [CanvasJS](https://canvasjs.com/javascript-charts/candlestick-line-chart/)
 	
 	
 	
